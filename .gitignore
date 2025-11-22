@@ -4,3 +4,10 @@ __pycache__/
 *.mp4
 *.mov
 yolov5s.pt
+venv/
+__pycache__/
+*.dylib
+*.so
+*.pt
+*.mp4
+*.mov
